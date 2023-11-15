@@ -10,8 +10,8 @@ int main(void)
 int sum;
 int y;
 int x;
-y = 0;
-x = 0;
+y = 6;
+x = 5;
 sum = y + x;
 printf("sum is %d\n", sum);
 return (0);
